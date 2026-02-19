@@ -4,7 +4,7 @@ description: Evaluate the durability of any agreement by examining its enforceme
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3704
+  version: 1.0.3705
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - covenant-assessment
